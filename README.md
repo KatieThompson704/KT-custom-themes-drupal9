@@ -31,6 +31,9 @@ This Drupal 9 site is designed to demonstrate my capabilities in custom theme de
 
    - Ensure you have a working installation of Drupal 9.
    - Clone this repository to your local machine.
+   - Ensure you have the correct version of the following installed:
+   - Composer (v2.6.6 ) https://getcomposer.org/download/
+   - PHP (v8.3.2) https://www.php.net/downloads
 
 2. **Install Dependencies:**
    ```bash
