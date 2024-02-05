@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    theme:
+      - katie
+id: katie_medium
+label: "katie Medium"
+locked: false
+pattern: "j  F,  Y"
